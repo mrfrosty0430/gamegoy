@@ -1,4 +1,4 @@
-
+package pkg
 
 
 switch (opcode){
@@ -289,10 +289,5 @@ switch (opcode){
     nn = //memory
     regs.pc ++
     regs.a = memory
-
-
-
-
-
 
 }
